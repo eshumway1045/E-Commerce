@@ -6,6 +6,8 @@
   ## Table of Contents
     
 * [Description](#Description)
+
+* [Videos](#Videos)
     
 * [Installation](#Installation)
     
@@ -23,7 +25,16 @@
     ## Description
     -------------------------------------------------------
     This is a simple assignment that was simply to build a back end for an e-commerce site from some starter code.
-
+    
+    ## Videos
+    -------------------------------------------------------
+    Walkthrough videos:
+    setup:
+    https://drive.google.com/file/d/1dHMg97eHdAKf1QQhE77fSUUv42DIcuLm/view
+    routes:
+    https://drive.google.com/file/d/1HdF6-iEn9Wpg33JQC0Y63WxsAVtON87p/view
+    https://drive.google.com/file/d/17yqv4mO7GFEzEI19K8OabjqZWqWz5bVX/view
+    https://drive.google.com/file/d/1R_wLPLBlerf_PJvFO0ECiyXlQTYmxdIK/view
 
     ## Distributed Link
     -------------------------------------------------------
